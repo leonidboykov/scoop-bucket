@@ -1,0 +1,16 @@
+{
+    "version": "0.1.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/leonidboykov/getmoe/releases/download/v0.1.2/getmoe_0.1.2_Windows_i386.zip",
+            "bin": "getmoe.exe"
+        },
+        "64bit": {
+            "url": "https://github.com/leonidboykov/getmoe/releases/download/v0.1.2/getmoe_0.1.2_Windows_x86_64.zip",
+            "bin": "getmoe.exe"
+        }
+    },
+    "homepage": "https://github.com/leonidboykov/getmoe",
+    "license": "MIT",
+    "description": "cli tool for boorus"
+}
