@@ -1,15 +1,15 @@
 {
-    "version": "0.1.2",
+    "version": "0.1.3",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/leonidboykov/gosling/releases/download/v0.1.2/gosling_0.1.2_Windows_i386.zip",
+            "url": "https://github.com/leonidboykov/gosling/releases/download/v0.1.3/gosling_0.1.3_Windows_i386.zip",
             "bin": "gosling.exe",
-            "hash": "30cda62065bbcf16e8b20f03ea5fd275d07eed190019db20937ad4825d1e5762"
+            "hash": "38358a9c31aa852f1db074aa32e7ba345a3e45c3ed521bd0254a2e15eaeeabfe"
         },
         "64bit": {
-            "url": "https://github.com/leonidboykov/gosling/releases/download/v0.1.2/gosling_0.1.2_Windows_x86_64.zip",
+            "url": "https://github.com/leonidboykov/gosling/releases/download/v0.1.3/gosling_0.1.3_Windows_x86_64.zip",
             "bin": "gosling.exe",
-            "hash": "446a2f868fb4b0fab05e984b8448c667ddb9ac33f3d7aff37f5ebdf274e2c872"
+            "hash": "b2ed97ef8206f40603f0dadceae628f2ca1ae2f1014164eaa5e0167c13b75030"
         }
     },
     "homepage": "https://github.com/leonidboykov/gosling",
