@@ -1,15 +1,15 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/leonidboykov/getmoe/releases/download/v0.3.3/getmoe_0.3.3_Windows_i386.zip",
+            "url": "https://github.com/leonidboykov/getmoe/releases/download/v0.3.4/getmoe_0.3.4_Windows_i386.zip",
             "bin": "getmoe.exe",
-            "hash": "db4af582ecf3dd8232ed9e1426b3882c2af988669ca0cf12ac1d5804cdda9a9f"
+            "hash": "5de51c8225f12f2563fdfd4f2dad4b16cdbf804fdefbc14ac6047affb28b867b"
         },
         "64bit": {
-            "url": "https://github.com/leonidboykov/getmoe/releases/download/v0.3.3/getmoe_0.3.3_Windows_x86_64.zip",
+            "url": "https://github.com/leonidboykov/getmoe/releases/download/v0.3.4/getmoe_0.3.4_Windows_x86_64.zip",
             "bin": "getmoe.exe",
-            "hash": "e5c30f8f5082bb03b3118bf9f715e61da355458579bb8a8ed41c02d7d0b57914"
+            "hash": "c35f0cc2224ecc8309a57e8c76f6e1653444108031d969dc7c88543f6e45d840"
         }
     },
     "homepage": "https://github.com/leonidboykov/getmoe",
